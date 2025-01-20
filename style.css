@@ -598,7 +598,7 @@ body{
     min-width: 300px;
 }
 /*----media queries----*/
-@media screen and (max-width: 500px)
+@media (max-width: 500px)
 {
     .opening>img{
         height: 300px;
