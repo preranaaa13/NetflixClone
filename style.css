@@ -786,13 +786,13 @@ body{
         height: 35px;
         width: 100px;
         position: relative;
-        left: 60px;
+        left: 70px;
         font-size: 20px;
         background-color: black;
         color: white;
         border: solid white;
         border-radius: 5px;
-        top: 100px;
+        top: 120px;
     }
     .trending .india:hover{
         background-color: gray;
@@ -803,7 +803,7 @@ body{
         background-color: black;
         color: white;
         position: relative;
-        top: 100px;
+        top: 120px;
         left: 80px;
         height: 35px;
         width: 100px;
@@ -858,9 +858,9 @@ body{
     }
     
     .topmovies .top10{
+        display: block;
         height: 1250px;
         width: 500px;
-        display: block;
     }
     .morereasonstojoin{
         font-size: 40px;
@@ -1195,14 +1195,14 @@ body{
         font-family: Georgia, 'Times New Roman', Times, serif;
         text-align: center;
         padding-top: 180px;
-        padding-left: 80px;
+        padding-left: 100px;
     }
     .trendinghindimovies>p{
         color: white;
         font-size: 40px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         text-align: center;
-        margin-left: 70px;
+        margin-left: 100px;
     }
     .hindimovies .bhool{
         height: 300px;
@@ -1241,7 +1241,7 @@ body{
         font-size: 40px;
         font-family: Georgia, 'Times New Roman', Times, serif;
         text-align: center;
-        padding-left: 60px;
+        padding-left: 90px;
     }
     .kdramas .lovenextdoor{
         height: 300px;
