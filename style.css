@@ -853,9 +853,8 @@ body{
     }
     
     .topmovies .top10{
-        height: max-content;
-       
-        width: max-content;
+        height: 1250px;
+        width: 500px;
         display: block;
     }
     .morereasonstojoin{
