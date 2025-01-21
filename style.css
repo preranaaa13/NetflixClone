@@ -815,6 +815,11 @@ body{
         background-color: gray;
         cursor: pointer;
     }
+    .topmovies .top10 img{
+        max-width: 200px;
+        margin: none;
+        margin-left: 20px;
+    }
     .topmovies .top10 .khelkhelmein{
         height: 300px;
         width: 200px;
